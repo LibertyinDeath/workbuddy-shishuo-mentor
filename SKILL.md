@@ -1,5 +1,5 @@
 ---
-name: shishuo
+name: shishuo-mentor
 slug: shishuo-mentor
 displayName: 军师阿亮 · 东方三经指引你的人生
 version: 3.5.12
