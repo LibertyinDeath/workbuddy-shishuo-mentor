@@ -1,0 +1,7 @@
+# skillhub install 带回的发布辅助文件：发布前需手动清理，不纳入版本库
+_icon.png
+_meta.json
+_skillhub_meta.json
+
+# macOS
+.DS_Store
